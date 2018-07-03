@@ -1,0 +1,44 @@
+                 ******************************* Python 3.6 ******************************************
+
+To print anything in python 3.6 you need to put parenthesis.
+
+Linux Terminal command:
+	i) python3.6 					// 3.6 is version
+	ii) exit() 		       				//  exit takes you back to terminal
+	iii) pwd                      				//  prints the current location of user in folder directory
+	iv) nano pgm1.py   			//  pgm1.py is name of file i want to open with python editor...  ctrl+x to exit
+	v) python3.6 pgm1.py 		//  to run the file pgm1.py, be in the folder where ur file is and use this command with filename
+	vi) mv pgm1.py py_project	// move a file(pgm1.py) in a folder(py_project)
+	vii) mkdir
+	viii) cd
+	ix) cd ..
+	x)   ls
+
+Python commands:
+
+i )  dir("Hi");				// prints all method on string
+		we cannot use the (__) type methods, but the other methods we can use them.
+
+		Like "hello".Capitalize();
+
+ii) dir(1) or dir(5.2) just enter the type of data it will give various methos that can be used on that data
+
+
+print("hello %s" % username);        // %s is string formatter or placeholder which is replaced by variable found after %
+
+CONDITIONALS:
+
+if (condition):
+	code
+else:
+	code
+
+LOOPS:
+
+list start at 0 and behaves as array
+
+FUNCTIONS:
+
+user input is always taken as string, we must convert it to required datatype
+
+FILES:
